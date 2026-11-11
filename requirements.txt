@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+langchain-core
+langchain-community==0.4.1
+langchain-google-genai
+langchain-huggingface
+langchain-text-splitters
+langgraph
+sentence-transformers
+faiss-cpu
+pypdf
+ragas

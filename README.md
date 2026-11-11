@@ -125,7 +125,8 @@ git clone https://github.com/AhmedMemon-007/langgraph-college-assistant.git
 ### Navigate to the project
 
 ```bash
-cd langgraph-college-assistant
+git clone https://github.com/AhmedMemon-007/Project-intelligent-college-assistant.git
+cd Project-intelligent-college-assistant
 ```
 
 ### Create and activate a virtual environment

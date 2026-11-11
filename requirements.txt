@@ -9,4 +9,4 @@ langgraph
 sentence-transformers
 faiss-cpu
 pypdf
-ragas
+# ragas  # only needed to run evaluate.py locally: pip install ragas

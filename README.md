@@ -221,7 +221,7 @@ The assistant was evaluated with **RAGAS** on **12 test questions** written from
 | Faithfulness | Is every claim in the answer supported by the retrieved chunks? | **0.76** |
 | Routing Accuracy | Was each question sent to the correct document? | **12 / 12** |
 
-Detailed per-question scores are in [`ragas_results_new.csv`](ragas_results_new.csv).
+Detailed per-question scores are in [`ragas_results_new.csv`](ragas_results.csv).
 
 ### Findings
 

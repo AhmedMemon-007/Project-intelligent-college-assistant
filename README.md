@@ -6,6 +6,9 @@ The assistant intelligently classifies student queries into different categories
 
 ---
 
+**🌐 Live Demo:** [ahmed-college-assistant.streamlit.app](https://ahmed-college-assistant.streamlit.app/)
+
+---
 ## 🚀 Features
 
 - 🤖 AI-powered conversational assistant
